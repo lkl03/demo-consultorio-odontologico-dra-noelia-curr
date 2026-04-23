@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-dra-noelia-curr
-Demo web para Consultorio Odontologico Dra Noelia Curra — diseñada por eterlab.
+# Consultorio Odontologico Dra Noelia Curra
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
